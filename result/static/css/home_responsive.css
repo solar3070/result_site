@@ -1,0 +1,96 @@
+@media screen and (max-width: 2000px) { 
+  .box {
+    width: 450px;
+  }
+  .box > h1 {
+    font-size: 33px;
+  }
+}
+@media screen and (max-width: 1600px) { 
+  .box {
+    width: 450px;
+  }
+  .box > h1 {
+    font-size: 33px;
+  }
+}
+@media screen and (max-width: 1366px) { 
+  .box {
+    width: 450px;
+  }
+}
+@media screen and (max-width: 1280px) { 
+  .box {
+    width: 450px;
+  }
+}
+@media screen and (max-width: 1080px) { 
+  .box {
+    width: 450px;
+  }
+}
+@media screen and (max-width: 1024px) { 
+  .box {
+    width: 500px;
+  }
+  .box > h1 {
+    font-size: 45px;
+  }
+}
+@media screen and (max-width: 962px) { 
+  .box {
+    width: 450px;
+  }
+}
+@media screen and (max-width: 800px) { 
+  .box {
+    width: 450px;
+  }
+  .box > h1 {
+    font-size: 40px;
+  }
+}
+@media screen and (max-width: 700px) { 
+  .box {
+    width: 450px;
+  }
+}
+@media screen and (max-width: 600px) { 
+  .box {
+    width: 450px;
+  }
+}
+@media screen and (max-width: 480px) { 
+  .box {
+    width: 350px;
+  }
+}
+@media screen and (max-width: 420px) { 
+  .box {
+    width: 300px;
+  }
+  .box > h1 {
+    font-size: 25px;
+  }
+}
+@media screen and (max-width: 360px) { 
+  .box {
+    width: 300px;
+  }
+  .box > h1 {
+    font-size: 25px;
+  }
+}
+@media screen and (max-width: 340px) { 
+  .box {
+    width: 450px;
+  }
+}
+@media screen and (max-width: 320px) { /* iPhone 5/SE기준*/
+  .box {
+    width: 250px;
+  }
+  .box > h1 {
+    font-size: 25px;
+  }
+}

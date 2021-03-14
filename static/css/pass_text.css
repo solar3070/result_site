@@ -1,0 +1,52 @@
+<<<<<<< HEAD
+.ml9 {
+  position: relative;
+  font-weight: 200;
+}
+
+.ml9 .text-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.2em;
+  padding-right: 0.05em;
+  padding-bottom: 0.1em;
+  overflow: hidden;
+}
+
+.ml9 .letter {
+  transform-origin: 50% 100%;
+  display: inline-block;
+  line-height: 1em;
+=======
+.html,body {
+  margin: 0;
+}
+.document{
+  position: absolute;
+  color:white;
+  background-image: url('/static/img/dongmutsa.png');
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+.ml9 {
+  position: relative;
+  font-weight: 200;
+}
+
+.ml9 .text-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.2em;
+  padding-right: 0.05em;
+  padding-bottom: 0.1em;
+  overflow: hidden;
+}
+
+.ml9 .letter {
+  transform-origin: 50% 100%;
+  display: inline-block;
+  line-height: 1em;
+>>>>>>> cc5fc55b3f90a9079fdcbfa86cb597d7a1f00f12
+}

@@ -1,0 +1,369 @@
+<<<<<<< HEAD
+@media screen and (max-width: 1600px) { 
+  div > .ml9 {
+    font-size: 85px;
+  }
+  div > p {
+    font-size: 25px;
+  }
+  .document {
+    top:20%;
+    left:12%;
+    right:10%;
+  }
+}
+@media screen and (max-width: 1366px) { 
+  div > .ml9 {
+    font-size: 70px;
+  }
+  div > p {
+    font-size: 25px;
+  }
+  .document {
+    top:15%;
+    left:12%;
+    right:10%;
+  }
+}
+@media screen and (max-width: 1280px) { 
+  div > .ml9 {
+    font-size: 67px;
+  }
+  div > p {
+    font-size: 23px;
+  }
+  .document {
+    top:15%;
+    left:12%;
+    right:10%;
+  }
+}
+@media screen and (max-width: 1080px) { 
+  div > .ml9 {
+    font-size: 57px;
+  }
+  div > p {
+    font-size: 20px;
+  }
+  .document {
+    top:15%;
+    left:12%;
+    right:10%;
+  }
+}
+@media screen and (max-width: 1024px) { 
+  div > .ml9 {
+    font-size: 54px;
+  }
+  div > p {
+    font-size: 30px;
+  }
+  .document {
+    top:15%;
+    left:12%;
+    right:10%;
+  }
+}
+@media screen and (max-width: 962px) { 
+  div > .ml9 {
+    font-size: 50px;
+  }
+  div > p {
+    font-size: 16px;
+  }
+  .document {
+    top:15%;
+    left:12%;
+    right:10%;
+  }
+}
+@media screen and (max-width: 800px) { 
+  div > .ml9 {
+    font-size: 41px;
+    
+  }
+  div > p {
+    font-size: 26px;
+  }
+  .document {
+    top:15%;
+    left:12%;
+    right:10%;
+  }
+}
+@media screen and (max-width: 700px) { 
+  div > .ml9 {
+    font-size: 35px;
+    
+  }
+  div > p {
+    font-size: 12px;
+  }
+  .document {
+    top:15%;
+    left:12%;
+    right:10%;
+  }
+}
+@media screen and (max-width: 600px) { 
+  div > .ml9 {
+    font-size: 28px;
+  }
+  div > p {
+    font-size: 16px;
+  }
+  .document {
+    top:15%;
+    left:12%;
+    right:10%;
+  }
+}
+@media screen and (max-width: 480px) { 
+  div > .ml9 {
+    font-size: 27px;
+  }
+  div > p {
+    font-size: 20px;
+  }
+  .document {
+    top:2%;
+    left:12%;
+    right:10%;
+  }
+}
+@media screen and (max-width: 360px) { 
+  div > .ml9 {
+    font-size: 23px;
+  }
+  div > p {
+    font-size: 15px;
+  }
+  .document {
+    top:10%;
+    left:12%;
+    right:10%;
+  }
+}
+@media screen and (max-width: 340px) { 
+  div > .ml9 {
+    font-size: 28px;
+  }
+  div > p {
+    font-size: 10px;
+  }
+  .document {
+    top:15%;
+    left:12%;
+    right:10%;
+  }
+}
+@media screen and (max-width: 320px) { /* iPhone 5/SE기준*/
+  div > .ml9 {
+    font-size: 31px;
+  }
+  div > p {
+    font-size: 18px;
+  }
+  .document {
+    top:0.5%;
+    left:10%;
+    right:10%;
+  }
+=======
+@media screen and (max-width: 1920px) { 
+  div > .ml9 {
+    font-size: 85px;
+  }
+  div > p {
+    font-size: 25px;
+  }
+  .document {
+    top:20%;
+    left:12%;
+    right:10%;
+  }
+}
+@media screen and (max-width: 1600px) { 
+  div > .ml9 {
+    font-size: 85px;
+  }
+  div > p {
+    font-size: 25px;
+  }
+  .document {
+    top:20%;
+    left:12%;
+    right:10%;
+  }
+}
+@media screen and (max-width: 1366px) { 
+  div > .ml9 {
+    font-size: 70px;
+  }
+  div > p {
+    font-size: 25px;
+  }
+  .document {
+    top:15%;
+    left:12%;
+    right:10%;
+  }
+}
+@media screen and (max-width: 1280px) { 
+  div > .ml9 {
+    font-size: 67px;
+  }
+  div > p {
+    font-size: 23px;
+  }
+  .document {
+    top:15%;
+    left:12%;
+    right:10%;
+  }
+}
+@media screen and (max-width: 1080px) { 
+  div > .ml9 {
+    font-size: 57px;
+  }
+  div > p {
+    font-size: 20px;
+  }
+  .document {
+    top:15%;
+    left:12%;
+    right:10%;
+  }
+}
+@media screen and (max-width: 1024px) { 
+  div > .ml9 {
+    font-size: 54px;
+  }
+  div > p {
+    font-size: 30px;
+  }
+  .document {
+    top:15%;
+    left:12%;
+    right:10%;
+  }
+}
+@media screen and (max-width: 962px) { 
+  div > .ml9 {
+    font-size: 50px;
+  }
+  div > p {
+    font-size: 16px;
+  }
+  .document {
+    top:15%;
+    left:12%;
+    right:10%;
+  }
+}
+@media screen and (max-width: 800px) { 
+  div > .ml9 {
+    font-size: 41px;
+  }
+  div > p {
+    font-size: 26px;
+  }
+  .document {
+    top:8%;
+    left:12%;
+    right:10%;
+  }
+}
+@media screen and (max-width: 760px) { 
+  div > .ml9 {
+    font-size: 35px;
+    
+  }
+  div > p {
+    font-size: 12px;
+  }
+  .document {
+    top:15%;
+    left:12%;
+    right:10%;
+  }
+}
+@media screen and (max-width: 700px) { 
+  div > .ml9 {
+    font-size: 35px;
+  }
+  div > p {
+    font-size: 12px;
+  }
+  .document {
+    top:15%;
+    left:12%;
+    right:10%;
+  }
+}
+@media screen and (max-width: 600px) { 
+  div > .ml9 {
+    font-size: 28px;
+  }
+  div > p {
+    font-size: 16px;
+  }
+  .document {
+    top:15%;
+    left:12%;
+    right:10%;
+  }
+}
+@media screen and (max-width: 480px) { 
+  div > .ml9 {
+    font-size: 27px;
+  }
+  div > p {
+    font-size: 20px;
+  }
+  .document {
+    top:2%;
+    left:12%;
+    right:10%;
+  }
+}
+@media screen and (max-width: 360px) { 
+  div > .ml9 {
+    font-size: 23px;
+  }
+  div > p {
+    font-size: 15px;
+  }
+  .document {
+    top:10%;
+    left:12%;
+    right:10%;
+  }
+}
+@media screen and (max-width: 340px) { 
+  div > .ml9 {
+    font-size: 28px;
+  }
+  div > p {
+    font-size: 10px;
+  }
+  .document {
+    top:15%;
+    left:12%;
+    right:10%;
+  }
+}
+@media screen and (max-width: 320px) { /* iPhone 5/SE기준*/
+  div > .ml9 {
+    font-size: 31px;
+  }
+  div > p {
+    font-size: 18px;
+  }
+  .document {
+    top:0.5%;
+    left:10%;
+    right:10%;
+  }
+>>>>>>> cc5fc55b3f90a9079fdcbfa86cb597d7a1f00f12
+}

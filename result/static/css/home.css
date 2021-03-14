@@ -1,0 +1,40 @@
+* { 
+  font-family: 'Spoqa Han Sans Neo', 'sans-serif';
+  text-align: center;
+}
+body {
+  background: #7F7FD5;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.wrap {
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+}
+.box {
+  text-align: center;
+  background-color: white;
+  padding: 50px 0 50px 0;
+  margin: 10% auto;
+  border-radius: 2%;
+}
+.form {
+  margin-top: 20px;
+}
+.btn-primary {
+  background-color: #7F82D6;
+  border-color: #7F82D6;
+}
+.btn-primary:hover {
+  background-color: #8ED7E5;
+  border-color: #8ED7E5;
+}
+input[type=text]:focus {
+  outline-color: #7F82D6;
+}
+h1 {
+  background: linear-gradient(to right, #7F7FD5, #91EAE4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
