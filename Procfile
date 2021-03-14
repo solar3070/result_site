@@ -1,0 +1,1 @@
+web: gunicorn announcemnet.wsgi --log-file -
